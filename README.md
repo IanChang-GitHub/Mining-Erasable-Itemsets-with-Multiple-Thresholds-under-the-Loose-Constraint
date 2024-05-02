@@ -10,7 +10,7 @@ Wei-Ming Huang
 
 Keywords: data mining; erasable-itemset mining; multiple thresholds, loose constraint.
 
-Abstract:
+Abstract:  
 In data mining, erasable-itemset mining is a popular research field widely applied in factory production management. Traditional erasable-mining algorithms typically use a single threshold as the criterion for mining erasable itemsets. It implicitly assumes that all items are of equal importance, neglecting the fact that each item has a distinct value in an application. In this paper, we use the concept of multiple thresholds and employ the loose constraint to calculate the threshold of an itemset. Since the downward-closure property is not applicable to the loose constraint, we thus utilize the sorted closure to narrow down the search space for raising up the searching efficiency. Through experiments, we compare the performance of the erasable-itemset mining using single and multiple thresholds.
 
 Pages: 9 to 14
